@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m passionate about building intelligent systems using AI, Machine Learning, and Deep Learning. <br>I enjoy turning complex problems into scalable, data-driven solutions.<br><br>⚙️ Currently working on ML & DL projects<br>🤝 Open to collaborations in AI-driven products and research<br>🌱 Constantly learning and experimenting with new architectures and techniques<br>💡 Interested in solving real-world problems with practical AI<br><br>Outside of tech, you’ll find me running or cycling — endurance sports keep me disciplined, focused, and always improving.
 
 
